@@ -3,7 +3,6 @@ title: Chinese Representation
 layout: about
 permalink: /chineserep.html
 ---
-
 Chinese Representation, 1885-1890
 
 <iframe style='width: 850px; height: 709px;' src='https://voyant-tools.org/tool/Bubbles/?stopList=keywords-e176002afe2474ac4a5b47f1f1f126b7&speed=20&corpus=2ed4615798559188c90036786cb4adaa'></iframe>
