@@ -9,4 +9,4 @@ German Representation, 1884-1895
 
 German Representation, 1907-1922
 
-<iframe style='width: 850px; height: 710px;' src='https://voyant-tools.org/tool/Trends/?stopList=keywords-7bb37375d8e3fc12cef6a43e0b96a61d&query=german&query=laborers&query=kliener&query=membership&query=men&mode=document&corpus=bba9c01a4dc1cd2699347349f6970d8f'></iframe>
+<iframe style='width: 850px; height: 710px;' src='https://voyant-tools.org/tool/Bubbles/?stopList=keywords-d6ee770ee847abb92776c9b395d72598&speed=20&corpus=bba9c01a4dc1cd2699347349f6970d8f'></iframe>
