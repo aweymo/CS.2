@@ -3,5 +3,6 @@ Home,/
 Browse,/browse.html
 Map,/map.html
 Data,/data.html
-Findings,/findings.html
+Findings,,
+Findings,/findings.html, Findings
 BlackRepresentation,/blackrep.html,Findings
