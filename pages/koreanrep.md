@@ -3,7 +3,6 @@ title: Korean Representation
 layout: about
 permalink: /koreanrep.html
 ---
-
 Korean Representation, 1903-1907
 
 <iframe style='width: 850px; height: 710px;' src='https://voyant-tools.org/tool/Bubbles/?stopList=keywords-63ba4bf17290fb63091dc4f3d7abbe57&speed=20&corpus=1a2fb2a7e0ba185f00106f75aba40b74'></iframe>
