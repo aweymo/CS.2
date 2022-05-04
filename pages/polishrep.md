@@ -3,7 +3,6 @@ title: Polish Representation
 layout: about
 permalink: /polishrep.html
 ---
-
 Polish Representation, 1894-1909
 
 <iframe style='width: 850px; height: 709px;' src='https://voyant-tools.org/tool/Bubbles/?stopList=keywords-452747a51afa92a67f82792f10b66f31&speed=20&corpus=80021858714acc6028e2644ff7307c3c'></iframe>
