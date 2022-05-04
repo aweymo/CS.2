@@ -3,7 +3,6 @@ title: Native American Representation
 layout: about
 permalink: /nativeamericanrep.html
 ---
-
 Native American Representation, 1881-1898
 
 <iframe style='width: 850px; height: 709px;' src='https://voyant-tools.org/tool/Bubbles/?stopList=keywords-11f14b2aed49e362f641c40a7366cefc&speed=20&corpus=a351e75064f6b2ff1db9d71641342f38'></iframe>
