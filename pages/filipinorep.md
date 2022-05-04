@@ -3,7 +3,6 @@ title: Filipino Representation
 layout: about
 permalink: /filipinorep.html
 ---
-
 Filipino Representation, 1911-1925
 
 <iframe style='width: 850px; height: 709px;' src='https://voyant-tools.org/tool/Bubbles/?stopList=keywords-b50ca16b94b80d175a44037252a294ab&speed=20&corpus=5e7d49b5e3d2cafb762dacb97f615723'></iframe>
