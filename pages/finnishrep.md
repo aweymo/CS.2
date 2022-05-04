@@ -3,7 +3,6 @@ title: Finnish Representation
 layout: about
 permalink: /finnishrep.html
 ---
-
 Finnish Representation, 1899-1909
 
 <iframe style='width: 850px; height: 709px;' src='https://voyant-tools.org/tool/Bubbles/?stopList=keywords-ce18c2700c1c0265f7bd15995b9aca16&speed=20&corpus=2dc74c2934794dab0dd064dfad2a3bf8'></iframe>
