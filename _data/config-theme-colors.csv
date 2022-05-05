@@ -3,7 +3,7 @@ primary,
 secondary,
 success,
 info,
-warning,
+warning,#fec245
 danger,
 light,
 dark,
