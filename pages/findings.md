@@ -1,5 +1,5 @@
 ---
-title: Findings
+title: About
 layout: about
 permalink: /findings.html
 ---
