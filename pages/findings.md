@@ -3,7 +3,9 @@ title: About
 layout: about
 permalink: /findings.html
 ---
-![ILL030_logo](https://user-images.githubusercontent.com/85772373/167271575-28c384a3-c334-4153-b771-948f6cf2e550.png)
+
+
+
 
 The text mining process involved retrieving the top 40 items of each group based on relevance, or the greatest number of matches for each search term. The searches all followed the same formula, "_____ labor," 1880-1930 date range, and Washington or Oregon state based publications. From these forty items, results were filtered down to 10 items based on their locality.
 
@@ -14,3 +16,6 @@ Certain words used in the search were then removed from results. For example, in
 These corpuses were then processed through Voyant, an open-source, web-based application for performing text analysis. The visualization that you see are the number of times particular words are repeated within the corpus, demonstrated by the size of each word's bubble. Hover over the bubble for the exact number and drag the bubbles around if you have trouble reading anything depending on how the visualization loads. 
 
 This method is still developing and being improved upon. This data and the overall project serves as a proof of concept towards future research. 
+
+
+
