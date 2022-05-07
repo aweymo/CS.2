@@ -1,9 +1,8 @@
 display_name,stub,dropdown_parent
 Home,https://aweymo.github.io/cs_land.html
-Browse,/browse.html
-Subjects,/subjects.html
-Map,/map.html
-Data,/data.html
+Browse Repository,/browse.html
+Repository Map,/map.html
+Repository Database,/data.html
 Findings,,
 About,/findings.html,Findings
 Black,/blackrep.html,Findings
