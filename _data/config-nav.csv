@@ -1,12 +1,12 @@
 display_name,stub,dropdown_parent
 Home,
 Landing Page,https://aweymo.github.io/cs_land/
-Browse Repository,/browse.html
-Repository Map,/map.html
-Repository Database,/data.html
-Oral History Transcripts,https://aweymo.github.io/CS_OH.3/transcripts.html
-Oral History Subjects,https://aweymo.github.io/CS_OH.3/subjects.html
-Historical Network Visualizations,https://aweymo.github.io/hnv_2/
+Browse,/browse.html
+Map,/map.html
+Data,/data.html
+OH Transcripts,https://aweymo.github.io/CS_OH.3/transcripts.html
+OH Subjects,https://aweymo.github.io/CS_OH.3/subjects.html
+Network Visualizations,https://aweymo.github.io/hnv_2/
 Findings,,
 About,/findings.html,Findings
 Black,/blackrep.html,Findings
