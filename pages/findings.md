@@ -4,6 +4,7 @@ layout: about
 permalink: /findings.html
 ---
 
+![ILL030_logo](https://user-images.githubusercontent.com/85772373/167273907-f34c0594-9566-4a26-94c8-8f58150eb273.png)
 
 
 
