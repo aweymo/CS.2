@@ -4,10 +4,11 @@ layout: about
 permalink: /findings.html
 ---
 
-![EB_01121889 2](https://user-images.githubusercontent.com/85772373/167283325-dac4475b-26ed-40f3-a59f-0cc3c264ef8c.png)
+![TT_30101897](https://user-images.githubusercontent.com/85772373/167288834-37434f1d-eb62-4f4f-a401-7cd9f1114588.png)
 
 
-- Image: Detail of the banner for the Epworth Budget, Tacoma, Washington, December 1889, Courtesy of the Tacoma Public library's Northwest Room
+
+- Image: Detail of the banner for the Tacoma Tidende, Courtesy of the Tacoma Public library's Northwest Room
 
 
 The text mining process involved retrieving the top 40 items of each group based on relevance, or the greatest number of matches for each search term. The searches all followed the same formula, "_____ labor," 1880-1930 date range, and Washington or Oregon state based publications. From these forty items, results were filtered down to 10 items based on their locality.
