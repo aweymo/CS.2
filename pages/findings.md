@@ -4,9 +4,10 @@ layout: about
 permalink: /findings.html
 ---
 
-![Page 0001](https://user-images.githubusercontent.com/85772373/167279577-36870194-47f3-45ac-8591-8f3bba84104e.png)
+![Page 0001](https://user-images.githubusercontent.com/85772373/167280347-6089855b-2bb2-4f12-ab55-2384ac40c545.png)
 
-- Image: Meeting Program for The Women's Club, Courtesy of the Tacoma Public library's Northwest Room
+
+- Image: Detail of Meeting Program for The Women's Club, Courtesy of the Tacoma Public library's Northwest Room
 
 
 The text mining process involved retrieving the top 40 items of each group based on relevance, or the greatest number of matches for each search term. The searches all followed the same formula, "_____ labor," 1880-1930 date range, and Washington or Oregon state based publications. From these forty items, results were filtered down to 10 items based on their locality.
