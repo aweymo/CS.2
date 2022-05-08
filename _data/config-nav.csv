@@ -1,26 +1,26 @@
 display_name,stub,dropdown_parent
 Home,
 Landing Page,https://aweymo.github.io/cs_land/
-Browse Repository,/browse.html
-Repository Map,/map.html
-Repository Data,/data.html
-OH Transcripts,https://aweymo.github.io/CS_OH.3/transcripts.html
-OH Subjects,https://aweymo.github.io/CS_OH.3/subjects.html
-Text Mining Visualizations,,
-About,/findings.html,Text Mining Visualizations
-Black,/blackrep.html,Text Mining Visualizations
-Chinese,/chineserep.html,Text Mining Visualizations
-Filipino,/filipinorep.html,Text Mining Visualizations
-Finnish,/finnishrep.html,Text Mining Visualizations
-German,/germanrep.html,Text Mining Visualizations
-Greek,/greekrep.html,Text Mining Visualizations
-Irish,/irishrep.html,Text Mining Visualizations
-Italian,/italianrep.html,Text Mining Visualizations
-Japanese,/japaneserep.html,Text Mining Visualizations
-Korean,/koreanrep.html,Text Mining Visualizations
-Native American,/nativeamericanrep.html,Text Mining Visualizations
-Norwegian,/norwegianrep.html,Text Mining Visualizations
-Polish,/polishrep.html,Text Mining Visualizations
-South Asian,/southasianrep.html,Text Mining Visualizations
-Term Frequency,/termfreq.html,Text Mining Visualizations
+Browse,/browse.html
+Map,/map.html
+Data,/data.html
+Transcripts,https://aweymo.github.io/CS_OH.3/transcripts.html
+Subjects,https://aweymo.github.io/CS_OH.3/subjects.html
+Text Mining,,
+About,/findings.html,Text Mining
+Black,/blackrep.html,Text Mining
+Chinese,/chineserep.html,Text Mining
+Filipino,/filipinorep.html,Text Mining
+Finnish,/finnishrep.html,Text Mining
+German,/germanrep.html,Text Mining
+Greek,/greekrep.html,Text Mining
+Irish,/irishrep.html,Text Mining
+Italian,/italianrep.html,Text Mining
+Japanese,/japaneserep.html,Text Mining
+Korean,/koreanrep.html,Text Mining
+Native American,/nativeamericanrep.html,Text Mining
+Norwegian,/norwegianrep.html,Text Mining
+Polish,/polishrep.html,Text Mining
+South Asian,/southasianrep.html,Text Mining
+Term Frequency,/termfreq.html,Text Mining
 Network Visualization,https://aweymo.github.io/hnv_2/
