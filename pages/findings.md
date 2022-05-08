@@ -4,7 +4,7 @@ layout: about
 permalink: /findings.html
 ---
 
-![Page 0001](https://user-images.githubusercontent.com/85772373/167279421-80f76a1c-f3c2-4c5e-884d-434e0fbaceee.png)
+![Page 0001](https://user-images.githubusercontent.com/85772373/167279577-36870194-47f3-45ac-8591-8f3bba84104e.png)
 
 - Image: Meeting Program for The Women's Club, Courtesy of the Tacoma Public library's Northwest Room
 
