@@ -6,7 +6,6 @@ Map,/map.html
 Data,/data.html
 OH Transcripts,https://aweymo.github.io/CS_OH.3/transcripts.html
 OH Subjects,https://aweymo.github.io/CS_OH.3/subjects.html
-Network Visualizations,https://aweymo.github.io/hnv_2/
 Findings,,
 About,/findings.html,Findings
 Black,/blackrep.html,Findings
@@ -24,3 +23,4 @@ Norwegian,/norwegianrep.html,Findings
 Polish,/polishrep.html,Findings
 South Asian,/southasianrep.html,Findings
 Term Frequency,/termfreq.html,Findings
+Network Visualization,https://aweymo.github.io/hnv_2/
